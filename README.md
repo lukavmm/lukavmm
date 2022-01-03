@@ -1,6 +1,6 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### Hi there 👋 I'm Lucas
 
+##
 - 💼 I’m currently studying System's Information at Unilasalle-RJ's university
 - ⭐ I’m currently learning Flask, Streamlit
 ##
