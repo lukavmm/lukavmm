@@ -2,7 +2,7 @@
 
 ##
 - 💼 I’m currently studying System's Information at Unilasalle-RJ's university
-- ⭐ I’m currently learning Flask, Streamlit
+- ⭐ I’m currently Front-end technologies
 ##
 <div>
   <a href="https://github.com/lukavmm">
