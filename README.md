@@ -2,7 +2,7 @@
 
 ##
 - 💼 I’m currently studying System's Information at Unilasalle-RJ's university
-- ⭐ I’m currently learning Front-end technologies
+- ⭐ I’m currently learning React and React-Native
 ##
 <div>
   <a href="https://github.com/lukavmm">
